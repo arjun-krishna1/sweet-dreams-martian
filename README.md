@@ -1,3 +1,10 @@
-# Dreaming Of Mars
-![Mars Dream Demonstration GIF](https://media.tenor.com/images/888c7949317730ec648a2d34626ee78c/tenor.gif)
-- Code adapted from Tensorflow DeepDream Tutorial [link](https://www.tensorflow.org/tutorials/generative/deepdream)
+# Sweet Dreams, Martian
+## When the first human drifts to sleep on Mars,
+## Looking out into the harsh Martian desert,
+## What will they see in their dreams?
+- Creating DeepDream sequences using Mars landscape images from the Curiosity Rover
+- Code adapted from [Tensorflow DeepDream Tutorial](https://www.tensorflow.org/tutorials/generative/deepdream)
+- [See on Github](https://github.com/arjun-krishna1/dreaming-of-mars/blob/deep-dream/DeepDream.ipynb)
+- [See on nbviewer(in case GitHub is not rendering)](https://nbviewer.jupyter.org/github/arjun-krishna1/dreaming-of-mars/blob/deep-dream/DeepDream.ipynb)
+
+![Mars DeepDream Demonstration](https://raw.githubusercontent.c
