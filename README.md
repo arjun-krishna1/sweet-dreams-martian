@@ -1,2 +1,3 @@
 # Dreaming Of Mars
-- Using the Google DeepDream algorithm to dream on images from the NASA Mars Images API
+![Mars Dream Demonstration GIF](https://media.tenor.com/images/888c7949317730ec648a2d34626ee78c/tenor.gif)
+- Code adapted from Tensorflow DeepDream Tutorial [link](https://www.tensorflow.org/tutorials/generative/deepdream)
