@@ -7,4 +7,4 @@
 - [See on Github](https://github.com/arjun-krishna1/dreaming-of-mars/blob/deep-dream/DeepDream.ipynb)
 - [See on nbviewer(in case GitHub is not rendering)](https://nbviewer.jupyter.org/github/arjun-krishna1/dreaming-of-mars/blob/deep-dream/DeepDream.ipynb)
 
-![Mars DeepDream Demonstration](https://raw.githubusercontent.c
+![Mars DeepDream Demonstration](https://raw.githubusercontent.com/arjun-krishna1/dreaming-of-mars-gifs/main/mars-deep-dream-imagenet1.gif)
