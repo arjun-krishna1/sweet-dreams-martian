@@ -1,6 +1,7 @@
 *.mp4
 *.gif
 *.jpeg
+*.jpg
 
 MANIFEST
 build
