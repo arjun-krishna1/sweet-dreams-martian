@@ -10,14 +10,16 @@
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@1.0.0"> </script>
 </head>
 <body>
-    <img id="img" src="mars.jpg"></img>
+    <img id="img" width=400 height=400 src="https://mars.nasa.gov/msl-raw-images/msss/01590/mcam/1590MR0081020030800438E01_DXXX.jpg"></img>
 </body>
 
 <script>  
     const img = document.getElementById('img');
-    console.log("loading image...");
+    console.log("loading model...");
+    let modelLoaded = false;
     mobilenet.load().then(model => {
       model.classify(img).then(predictions => {
+        modelLoaded = true;
         console.log('Predictions: ');
         console.log(predictions);
       });
